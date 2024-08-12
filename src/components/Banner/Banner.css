@@ -80,12 +80,12 @@
 
 @media only screen and (max-width: 550px) {
 	.banner__title {
-		font-size: 7vw;
+		font-size: 4vw;
 		padding: 1.5vw 2vw;
 		margin-bottom: 0.6vw;
 	}
 	.banner__subtitle {
-		font-size: 11vw;
+		font-size: 7vw;
 		text-shadow: 1px 1px 1px #999;
 		margin-bottom: 0;
 	}
