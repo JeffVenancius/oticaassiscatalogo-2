@@ -157,7 +157,7 @@ function App() {
   return (
     <div className="App">
 		<Header
-				headerStyle={size[0] > 1149 ? {backgroundImage: "url(\"./assets/assis/banner 1 estendido.png\")", backgroundSize: "cover",aspectRatio: 230/69} : {backgroundImage: "url(\"./assets/assis/banner1.png\")", backgroundSize: "contain", aspectRatio: 1150/690}}
+				headerStyle={size[0] > 1149 ? {backgroundImage: "url(\"./assets/assis/banner 1 estendido.jpg\")", backgroundSize: "cover",aspectRatio: 230/69} : {backgroundImage: "url(\"./assets/assis/banner1.jpg\")", backgroundSize: "contain", aspectRatio: 1150/690}}
 		headerIcon= {size[0] > 1149 ? true : false}
 		/>
 		<Ruler

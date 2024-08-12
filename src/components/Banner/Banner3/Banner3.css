@@ -5,7 +5,7 @@
 }
 
 .banner {
-	background: url('../../../../public/assets/assis/banner2.png');
+	background: url('../../../../public/assets/assis/banner2.jpg');
 	background-repeat: no-repeat;
 	background-size: contain;
 	aspect-ratio: 1000/400;
@@ -14,7 +14,7 @@
 
 @media only screen and (max-width: 1625px) {
 .banner {
-	background: url('../../../../public/assets/assis/banner landing page assis (900 x 600 px).png');
+	background: url('../../../../public/assets/assis/banner landing page assis (900 x 600 px).jpg');
 	aspect-ratio: 900/600;
 	background-size: contain;
 }
