@@ -1,0 +1,38 @@
+
+body {
+	margin: 0;
+	font-family: Poppins;
+	scroll-behavior: smooth;
+	background-color: #F4F4F4;
+	height: 100vh;
+	width: 100vw;
+}
+
+.App {
+	/* display: flex; */
+	justify-content: center;
+	flex-direction: column;
+	background-color: #FFF;
+	line-height: 1rem;
+}
+
+Button {
+	border: none;
+	text-decoration: none;
+	display: inline-block;
+	opacity: 1;
+	transition: 0.3s;
+	cursor: pointer;
+}
+
+
+Button:hover {
+	opacity: 0.5;
+}
+
+.swiper-button-next::after, .swiper-button-prev::after {
+	--swiper-navigation-size: 32px;
+	color: white;
+	text-shadow: 2px 2px 2px #777777ff;
+}
+

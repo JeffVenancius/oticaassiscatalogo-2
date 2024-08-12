@@ -1,0 +1,25 @@
+.banner__3 {
+	/* margin: 8vw 0; */
+	margin-top: 10%;
+	margin-left: 5%;
+}
+
+.banner {
+	background: url('../../../../public/assets/assis/banner2.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	aspect-ratio: 1000/400;
+	width: 100%;
+}
+
+@media only screen and (max-width: 1625px) {
+.banner {
+	background: url('../../../../public/assets/assis/banner landing page assis (900 x 600 px).png');
+	aspect-ratio: 900/600;
+	background-size: contain;
+}
+.banner__3 {
+	margin-top: 40%;
+	margin-left: 1%;
+}
+}
