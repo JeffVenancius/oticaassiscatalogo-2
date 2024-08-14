@@ -13,7 +13,7 @@
 .card__image__custom {
 	width: 90%;
 	object-fit: cover;
-	aspect-ratio: 1/1;
+	aspect-ratio: 1.1/1;
 	max-width: 350px;
 }
 
@@ -50,6 +50,7 @@
 	justify-content: space-between;
 	align-items: center;
 	gap: 12px;
+	z-index: 999;
 }
 
 .card__description_price_container {
