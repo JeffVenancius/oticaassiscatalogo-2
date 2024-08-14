@@ -114,3 +114,10 @@
 	aspect-ratio: 1/1;
 	margin-bottom: 32px;
 }}
+
+@media only screen and (max-width: 859px) {
+	.card--description {
+		background-color: white;
+	}
+}
+
