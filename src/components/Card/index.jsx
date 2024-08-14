@@ -46,8 +46,8 @@ function Card(props) {
 			<div className="card--description">
 				<h2 >{props.description}</h2>
 		<div className="card__description_price_container">
-				<h3 className="card--description--price">{formater.format(props.preco)}</h3>
-				<p className="card--description--price"> ou em até {"12x de " + precoFormatado} sem juros</p>
+				<h3 className="card--description--price">{"12x de " + precoFormatado} sem juros</h3>
+				<p className="card--description--price"> ou {formater.format(props.preco)} à vista</p>
 		</div>
 				<WppBtn
 					icone={true}
