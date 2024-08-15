@@ -37,12 +37,6 @@
 			"img": "LPG-15.jpg"
 		},
 		{
-			"description": "Óculos de Grau Kipling KP3150 Transparente",
-			"modelo": "KP3150",
-			"preco": 500,
-			"img": "LPG-16.jpg"
-		},
-		{
 			"description": "Óculos de Grau Arnett AN4299 Preto",
 			"modelo": "AN4299",
 			"preco": 550,
@@ -91,6 +85,12 @@
 		"modelo": "BG4064N",
 		"preco": 398,
 		"img": "LPG-9.jpg"
+		},
+		{
+			"description": "Óculos de Grau Kipling KP3150 Transparente",
+			"modelo": "KP3150",
+			"preco": 500,
+			"img": "LPG-16.jpg"
 		},
 		{
 			"description": "Oculos De Grau Guess GU50112 Tortoise ",
