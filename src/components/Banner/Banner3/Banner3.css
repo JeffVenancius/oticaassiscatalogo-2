@@ -1,35 +1,37 @@
 .banner__3 {
 	/* margin: 8vw 0; */
-	margin-top: 10%;
-	margin-left: 5%;
+	margin-top: 5%;
+	margin-right: 15%;
 }
 
 .banner {
-	background: url('../../../../public/assets/assis/banner2.jpg');
+	background: url('../../../../public/assets/assis/banner 1 estendido.jpg');
 	background-repeat: no-repeat;
 	background-size: contain;
-	aspect-ratio: 1000/400;
+	aspect-ratio: 1332/400;
 	width: 100%;
 }
 
 @media only screen and (max-width: 1625px) {
 .banner {
-	background: url('../../../../public/assets/assis/banner landing page assis (900 x 600 px).jpg');
+	background: url('../../../../public/assets/assis/banner1.jpg');
 	aspect-ratio: 900/600;
 	background-size: contain;
 }
 .banner__3 {
-	margin-top: 40%;
-	margin-left: 1%;
+	text-align: left;
+	margin-right: 2%;
 }
 }
 
 
+@media only screen and (min-width: 1625px) and (max-width: 1970px) {
+	.banner__3 {
+	margin-right: 18%;
+	}
+}
 
 @media only screen and (max-width: 550px) {
 	.banner__3 {
-		margin: auto;
-		margin-bottom: 4%;
-		margin-left: 2%;
 	}
 }

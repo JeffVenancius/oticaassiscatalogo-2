@@ -5,7 +5,7 @@
 	-webkit-justify-content: space-around;
 	-webkit-align-items: center;
 	background-color: #f16122;
-	height: 96px;
+	height: 64px;
 	margin-bottom: 64px;
 }
 
@@ -50,19 +50,26 @@
 @media only screen and (max-width: 887px) {
 	.ruler {
 		margin-bottom: 3vw;
-		height: 20vw;
+		height: 10vw;
 	}
+.ruler__item img {
+	height: 12vw;
+	margin-right: 8px;
+}
 }
 
 
 @media only screen and (max-width: 356px) {
 	.ruler__title {
-		font-size: 4.5vw;
-	}
-	.ruler__desc {
 		font-size: 4vw;
 	}
+	.ruler__desc {
+		font-size: 3.5vw;
+	}
 	.ruler__item img {
+		height: 13vw;
+	}
+	.ruler {
 		height: 16vw;
 	}
 }

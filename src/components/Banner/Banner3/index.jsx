@@ -18,7 +18,7 @@ function Banner3() {
 	let text = (
 		<div>
 		<h2 className="banner__title">Coleção nova</h2>
-		<h2 className='banner__subtitle'>Óculos femininos</h2>
+		<h2 className='banner__subtitle'>Óculos masculinos</h2>
 		</div>
 	)
   return (

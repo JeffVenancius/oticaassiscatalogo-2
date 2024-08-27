@@ -14,10 +14,15 @@ function Header(props) {
 			</div>
 		</div>
 			<div className="header-banner" style={{...props.headerStyle, backgroundRepeat: "no-repeat"}}>
-					<div style={{width: "100%", height: "100%"}}>
-					<img className="header__flag" src={props.icon ? "./assets/assis/banner 1 landing page assis.svg" : "./assets/assis/banner 1 landing page assis_mobile.svg"} alt="" />
-					</div>
+			<div className='header__promo__text'>
+				<h1 className='promo__h1__mobile'>COMPROU,<br/> GANHOU!</h1>
+				<h1 className='promo__h1__pc'>COMPROU,<br/> GANHOU!</h1>
+			<div>
+				<h2>50%</h2>
+				<p>off na segunda peça</p>
 			</div>
+			</div>
+					</div>
 		</div>
   );
 }
