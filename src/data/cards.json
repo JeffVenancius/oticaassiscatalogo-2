@@ -1,79 +1,4 @@
 {
-	"Masculino//Óculos de Grau":[
-		{
-			"description": "Óculos de Grau Emporio Armani EA3201U Verde",
-			"modelo": "EA3201U",
-			"preco": 990,
-			"img": "LPG-4.jpg"
-		},
-		{
-			"description": "Óculos de Grau Ray Ban RB3947VL Prata",
-			"modelo": "RB3947V",
-			"preco": 740,
-			"img": "LPG-1.jpg"
-		},
-		{
-			"description": "Óculos de Grau Oakley OX8149 Cinza",
-			"modelo": "OX8149",
-			"preco": 1111,
-			"img": "LPG-5.jpg"
-		},
-		{
-			"description": "Óculos de Grau Oakley OX1100-04 Preto",
-			"modelo": "OX1100-04",
-			"preco": 530,
-			"img": "LPG-25.jpg"
-		},
-		{
-			"description": "Óculos de Grau Emporio Armani EA1107 Preto",
-			"modelo": "EA1107",
-			"preco": 670,
-			"img": "LPG-14.jpg"
-		},
-		{
-			"description": "Óculos de Grau Emporio Armani EA3170 Vermelho",
-			"modelo": "EA3170",
-			"preco": 770,
-			"img": "LPG-15.jpg"
-		},
-		{
-			"description": "Óculos de Grau Arnett AN4299 Preto",
-			"modelo": "AN4299",
-			"preco": 550,
-			"img": "LPG-24.jpg"
-		}
-	],
-	"Masculino//Óculos de Sol":[
-		{
-			"description": "Óculos de Sol Ferrari FZ6005U Preto",
-			"modelo": "FZ6005U",
-			"preco": 1146,
-			"img": "LPG-3.jpg"
-		},
-		{"description": "Óculos de Sol Ray Ban RB3701 Prata",
-			"modelo": "RB3701",
-			"preco": 1330,
-			"img": "LPG-7.jpg"
-		},
-		{
-			"description": "Óculos de Sol Calvin Klein Jeans CKJ24601S Marrom",
-			"modelo": "CKJ24601S",
-			"preco": 663,
-			"img": "LPG-2.jpg"
-		},
-		{
-			"description": "Óculos de Sol Ray Ban RB3708 Prata",
-			"modelo": "RB3708",
-			"preco": 1180,
-			"img": "LPG-22.jpg"
-		},
-		{
-			"description": "Óculos de Sol Arnette Shyguy 4283 Azul",
-			"modelo": "Shyguy 4283",
-			"preco": 570,
-			"img": "LPG-23.jpg"
-		}
-	],
 	"Feminino//Óculos de Grau":[
 		{
 			"description": "Oculos De Grau Calvin Klein Jeans CKJ24612 Vinho",
@@ -153,5 +78,80 @@
 			"preco": 590,
 			"img": "LPG-19.jpg"
 		}
-	]
+	],
+	"Masculino//Óculos de Grau":[
+		{
+			"description": "Óculos de Grau Emporio Armani EA3201U Verde",
+			"modelo": "EA3201U",
+			"preco": 990,
+			"img": "LPG-4.jpg"
+		},
+		{
+			"description": "Óculos de Grau Ray Ban RB3947VL Prata",
+			"modelo": "RB3947V",
+			"preco": 740,
+			"img": "LPG-1.jpg"
+		},
+		{
+			"description": "Óculos de Grau Oakley OX8149 Cinza",
+			"modelo": "OX8149",
+			"preco": 1111,
+			"img": "LPG-5.jpg"
+		},
+		{
+			"description": "Óculos de Grau Oakley OX1100-04 Preto",
+			"modelo": "OX1100-04",
+			"preco": 530,
+			"img": "LPG-25.jpg"
+		},
+		{
+			"description": "Óculos de Grau Emporio Armani EA1107 Preto",
+			"modelo": "EA1107",
+			"preco": 670,
+			"img": "LPG-14.jpg"
+		},
+		{
+			"description": "Óculos de Grau Emporio Armani EA3170 Vermelho",
+			"modelo": "EA3170",
+			"preco": 770,
+			"img": "LPG-15.jpg"
+		},
+		{
+			"description": "Óculos de Grau Arnett AN4299 Preto",
+			"modelo": "AN4299",
+			"preco": 550,
+			"img": "LPG-24.jpg"
+		}
+	],
+	"Masculino//Óculos de Sol":[
+		{
+			"description": "Óculos de Sol Ferrari FZ6005U Preto",
+			"modelo": "FZ6005U",
+			"preco": 1146,
+			"img": "LPG-3.jpg"
+		},
+		{"description": "Óculos de Sol Ray Ban RB3701 Prata",
+			"modelo": "RB3701",
+			"preco": 1330,
+			"img": "LPG-7.jpg"
+		},
+		{
+			"description": "Óculos de Sol Calvin Klein Jeans CKJ24601S Marrom",
+			"modelo": "CKJ24601S",
+			"preco": 663,
+			"img": "LPG-2.jpg"
+		},
+		{
+			"description": "Óculos de Sol Ray Ban RB3708 Prata",
+			"modelo": "RB3708",
+			"preco": 1180,
+			"img": "LPG-22.jpg"
+		},
+		{
+			"description": "Óculos de Sol Arnette Shyguy 4283 Azul",
+			"modelo": "Shyguy 4283",
+			"preco": 570,
+			"img": "LPG-23.jpg"
+		}
+	],
 }
