@@ -90,27 +90,6 @@ function App() {
 
 	const [categoriesData, setCategoriesData] = useState([
 		{
-			titulo: "Masculino//Óculos de Grau",
-			imagemCatergoria: "Classica.png",
-			bgCategoria: "#FFF",
-			banner: "",
-			cardStyle: cardsEstilos.transparente,
-			btnBg: "#009947",
-			btnFg: paleta.branco,
-			frameColor: paleta.branco,
-			cards: []
-		},
-		{
-			titulo: "Masculino//Óculos de Sol",
-			imagemCatergoria: "Moderna.png",
-			bgCategoria: "#FFF",
-			cardStyle: cardsEstilos.transparente,
-			btnBg: "#009947",
-			btnFg: paleta.branco,
-			frameColor: paleta.branco,
-			banner: <Banner3/>,
-		},
-		{
 			titulo: "Feminino//Óculos de Grau",
 			bgCategoria: "#FFF",
 			imagemCatergoria: "Esportiva.png",
@@ -131,6 +110,27 @@ function App() {
 			frameColor: paleta.branco,
 			cards: []
 		},
+		{
+			titulo: "Masculino//Óculos de Grau",
+			imagemCatergoria: "Classica.png",
+			bgCategoria: "#FFF",
+			banner: "",
+			cardStyle: cardsEstilos.transparente,
+			btnBg: "#009947",
+			btnFg: paleta.branco,
+			frameColor: paleta.branco,
+			cards: []
+		},
+		{
+			titulo: "Masculino//Óculos de Sol",
+			imagemCatergoria: "Moderna.png",
+			bgCategoria: "#FFF",
+			cardStyle: cardsEstilos.transparente,
+			btnBg: "#009947",
+			btnFg: paleta.branco,
+			frameColor: paleta.branco,
+			banner: <Banner3/>,
+		}
 	])
 
 	useEffect(() => {
