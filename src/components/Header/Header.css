@@ -5,6 +5,7 @@
 	/* align-items: center; */
 	/* margin-bottom: 8px; */
 	background-size: contain; 
+	font-family: leagueSpartan;
 }
 
 @media only screen and (min-width: 1150px) {
@@ -17,25 +18,34 @@
 }
 
 .header__promo__text {
-	color: white;
+	color: #b0110d;
 	margin-left: 12%;
 	display: flex;
 	flex-direction: column;
 }
 
+.header__promo__text h1 span{
+	color: #052f3f;
+	letter-spacing: 0;
+}
+
 .header__promo__text h1 {
-	font-size: 4vw;
+	font-size: 4.5vw;
 	font-weight: 600;
-	text-align: left;
+	text-align: justify;
+	text-justify: inter-character;
+	line-height: 1;
 	margin:0;
+	letter-spacing: 0.42vw;
 }
 
 .header__promo__text div {
+	margin-top: -32px;
 }
 
 .header__promo__text h2 {
 	font-weight: 600;
-	font-size: 7vw;
+	font-size: 12vw;
 	text-align: left;
 	margin: 0;
 }
@@ -43,8 +53,9 @@
 .header__promo__text p {
 	font-size: 1.4vw;
 	text-align: left;
-	margin-top: -16px;
+	margin-top: -48px;
 	margin-left: 2%;
+	color: #052f3f;
 }
 }
 
@@ -137,11 +148,11 @@
 		-webkit-align-content: flex-end;
 	}
 	.header__promo__text {
-		color: white;
+		color: #fff;
 		margin-top: auto;
 		width: 100%;
-		margin-left: 8%;
-		margin-right: 8%;
+		margin-left: 11%;
+		margin-right: 11%;
 		display: flex;
 		justify-content: space-around;
 		-webkit-justify-content: space-around;
@@ -164,13 +175,17 @@
 	}
 	.header__promo__text p {
 		font-size: 2.5vw;
-		margin-top: -14px;
-		font-weight: 600;
-		margin-left: 5%;
-		
+		margin-top: -13%;
+		font-weight: 400;
+		margin-left: 4%;
 	}
 .promo__h1__mobile {
 	display: unset;
+	letter-spacing: 0.7vw;
+	line-height: 0.98;
+}
+.promo__h1__mobile span {
+	letter-spacing: 0;
 }
 .promo__h1__pc {
 	display: none;

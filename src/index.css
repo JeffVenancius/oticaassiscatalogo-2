@@ -12,6 +12,28 @@
     font-style: bold;
 }
 
+@font-face {
+	font-family: 'LeagueSpartan';
+    src: url('../public/fonts/League_Spartan/static/LeagueSpartan-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'LeagueSpartan';
+    src: url('../public/fonts/League_Spartan/static/LeagueSpartan-Bold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: bold;
+}
+
+@font-face {
+	font-family: 'LeagueSpartan';
+    src: url('../public/fonts/League_Spartan/static/LeagueSpartan-ExtraBold.ttf') format('truetype');
+	font-weight: 800;
+	font-style: bold;
+}
+
+
 body {
 	font-family: Poppins;
 }
