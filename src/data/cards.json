@@ -1,157 +1,238 @@
 {
 	"Feminino//Óculos de Grau":[
 		{
-			"description": "Oculos De Grau Calvin Klein Jeans CKJ24612 Vinho",
-			"modelo": "CKJ24612",
-			"preco": 650,
-			"img": "LPG-10.jpg"
-		},{
-		"description": "Oculos De Grau Bulget BG4064N Preto",
-		"modelo": "BG4064N",
-		"preco": 398,
-		"img": "LPG-9.jpg"
+			"description": "Oculos De Grau Oslo",
+			"modelo": "Oslo n°20",
+			"preco": 198,
+			"img": "assis/produtos/FEMININO/lpg-26.jpg"
 		},
 		{
-			"description": "Óculos de Grau Kipling KP3150 Transparente",
-			"modelo": "KP3150",
-			"preco": 500,
-			"img": "LPG-16.jpg"
+			"description": "Oculos De Grau La Roma",
+			"modelo": "La Roma n°1",
+			"preco": 349,
+			"img": "assis/produtos/FEMININO/lpg-21.jpg"
 		},
 		{
-			"description": "Oculos De Grau Guess GU50112 Tortoise ",
-			"modelo": "GU50112",
-			"preco": 724,
-			"img": "LPG-8.jpg"
+			"description": "Oculos De Grau On Design",
+			"modelo": "On Design n°2",
+			"preco": 349,
+			"img": "assis/produtos/FEMININO/lpg-30.jpg"
 		},
 		{
-			"description": "Oculos De Grau Vogue VO5483 Verde",
-			"modelo": "VO5483",
-			"preco": 590,
-			"img": "LPG-18.jpg"
+			"description": "Oculos De Grau On Design",
+			"modelo": "On Design n°38",
+			"preco": 349,
+			"img": "assis/produtos/FEMININO/lpg-29.jpg"
 		},
 		{
-			"description": "Oculos De Grau Vogue VO4177 Dourado",
-			"modelo": "VO4177",
-			"preco": 590,
-			"img": "LPG-13.jpg"
+			"description": "Oculos De Grau Kilt",
+			"modelo": "Kilt n°3",
+			"preco": 149,
+			"img": "assis/produtos/FEMININO/lpg-25.jpg"
 		},
 		{
-			"description": "Oculos De Grau Michael Kors MK3042B Preto",
-			"modelo": "MK3042B",
-			"preco": 1030,
-			"img": "LPG-20.jpg"
+			"description": "Oculos De Grau Kilt",
+			"modelo": "Kilt n°4",
+			"preco": 149,
+			"img": "assis/produtos/FEMININO/lpg-18.jpg"
+		},
+		{
+			"description": "Oculos De Grau Ana Henriqueta",
+			"modelo": "Ana Henriqueta n°5",
+			"preco": 399,
+			"img": "assis/produtos/FEMININO/lpg-34.jpg"
+		},
+		{
+			"description": "Oculos De Grau Ana Henriqueta",
+			"modelo": "Ana Henriqueta n°6",
+			"preco": 399,
+			"img": "assis/produtos/FEMININO/lpg-11.jpg"
+		},
+		{
+			"description": "Oculos De Grau Ana Henriqueta",
+			"modelo": "Ana Henriqueta n°7",
+			"preco": 399,
+			"img": "assis/produtos/FEMININO/lpg-14.jpg"
 		}
 	],
 	"Feminino//Óculos de Sol":[
 		{
-			"description": "Óculos de Sol Calvin Klein Jeans CKJ23656S Vermelho",
-			"modelo": "CKJ23656S",
-			"preco": 951,
-			"img": "LPG-6.jpg"
+			"description": "Óculos de Sol On Design",
+			"modelo": "On Design n°8",
+			"preco": 349,
+			"img": "assis/produtos/FEMININO/lpg-1.jpg"
 		},
 		{
-			"description": "Óculos de Sol Ana Hickmann AH9294N Bege",
-			"modelo": "AH9294N",
-			"preco": 722,
-			"img": "LPG-12.jpg"
+			"description": "Óculos de Sol On Design",
+			"modelo": "On Design n°9",
+			"preco": 349,
+			"img": "assis/produtos/FEMININO/lpg-2.jpg"
 		},
 		{
-			"description": "Óculos de Sol Guess GU7875 Dourado",
-			"modelo": "GU7875",
-			"preco": 1109,
-			"img": "LPG-11.jpg"
-		},{
-		"description": "Óculos de Sol Michael Kors MK1046 Dourado",
-		"modelo": "MK1046",
-		"preco": 1060,
-		"img": "LPG-17.jpg"
+			"description": "Óculos de Sol On Design",
+			"modelo": "On Design n°10",
+			"preco": 349,
+			"img": "assis/produtos/FEMININO/lpg-3.jpg"
 		},
 		{
-			"description": "Óculos de Sol Michael Kors MK2140 Tortoise",
-			"modelo": "MK2140",
-			"preco": 1060,
-			"img": "LPG-21.jpg"
+			"description": "Óculos de Sol Out",
+			"modelo": "Out n° 11",
+			"preco": 145,
+			"img": "assis/produtos/FEMININO/lpg-4.jpg"
 		},
 		{
-			"description": "Óculos de Sol Vogue VO5428-Sl Azul",
-			"modelo": "VO5428-Sl",
-			"preco": 590,
-			"img": "LPG-19.jpg"
+			"description": "Óculos de Sol Oslo",
+			"modelo": "Oslo n°12",
+			"preco": 198,
+			"img": "assis/produtos/FEMININO/lpg-7.jpg"
+		},
+		{
+			"description": "Óculos de Sol Kilt",
+			"modelo": "Kilt n°13",
+			"preco": 149,
+			"img": "assis/produtos/FEMININO/lpg-8.jpg"
+		},
+		{
+			"description": "Óculos de Sol Oslo",
+			"modelo": "Oslo n°14",
+			"preco": 198,
+			"img": "assis/produtos/FEMININO/lpg-12.jpg"
+		},
+		{
+			"description": "Óculos de Sol Oslo",
+			"modelo": "Oslo n°15",
+			"preco": 198,
+			"img": "assis/produtos/FEMININO/lpg-13.jpg"
+		},
+		{
+			"description": "Óculos de Sol Kilt",
+			"modelo": "Kilt n°16",
+			"preco": 149,
+			"img": "assis/produtos/FEMININO/lpg-16.jpg"
+		},
+		{
+			"description": "Óculos de Sol Oslo",
+			"modelo": "Oslo n°17",
+			"preco": 198,
+			"img": "assis/produtos/FEMININO/lpg-22.jpg"
+		},
+		{
+			"description": "Óculos de Sol Oslo",
+			"modelo": "Oslo n°18",
+			"preco": 198,
+			"img": "assis/produtos/FEMININO/lpg-23.jpg"
+		},
+		{
+			"description": "Óculos de Sol Oslo",
+			"modelo": "Oslo n°19",
+			"preco": 198,
+			"img": "assis/produtos/FEMININO/lpg-27.jpg"
+		},
+		{
+			"description": "Óculos de Sol On Design",
+			"modelo": "On Design n°21",
+			"preco": 349,
+			"img": "assis/produtos/FEMININO/lpg-28.jpg"
+		},
+		{
+			"description": "Óculos de Sol On Design",
+			"modelo": "On Design n°22",
+			"preco": 349,
+			"img": "assis/produtos/FEMININO/lpg-32.jpg"
+		},
+		{
+			"description": "Óculos de Sol Out",
+			"modelo": "Out n°23",
+			"preco": 145,
+			"img": "assis/produtos/FEMININO/lpg-33.jpg"
+		},
+		{
+			"description": "Óculos de Sol On Design",
+			"modelo": "On Design n°24",
+			"preco": 349,
+			"img": "assis/produtos/FEMININO/lpg-35.jpg"
+		},
+		{
+			"description": "Óculos de Sol On Design",
+			"modelo": "On Design n°25",
+			"preco": 349,
+			"img": "assis/produtos/FEMININO/lpg-37.jpg"
+		},
+		{
+			"description": "Óculos de Sol On Design",
+			"modelo": "On Design n°26",
+			"preco": 349,
+			"img": "assis/produtos/FEMININO/lpg-38.jpg"
 		}
 	],
 	"Masculino//Óculos de Grau":[
 		{
-			"description": "Óculos de Grau Emporio Armani EA3201U Verde",
-			"modelo": "EA3201U",
-			"preco": 990,
-			"img": "LPG-4.jpg"
+			"description": "Óculos de Grau Oslo",
+			"modelo": "Oslo n°27",
+			"preco": 198,
+			"img": "assis/produtos/MASCULINO/lpg-5.jpg"
 		},
 		{
-			"description": "Óculos de Grau Ray Ban RB3947VL Prata",
-			"modelo": "RB3947V",
-			"preco": 740,
-			"img": "LPG-1.jpg"
+			"description": "Óculos de Grau Adventure",
+			"modelo": "Adventure n°28",
+			"preco": 289,
+			"img": "assis/produtos/MASCULINO/lpg-6.jpg"
 		},
 		{
-			"description": "Óculos de Grau Oakley OX8149 Cinza",
-			"modelo": "OX8149",
-			"preco": 1111,
-			"img": "LPG-5.jpg"
+			"description": "Óculos de Grau Adventure",
+			"modelo": "Adventure n°29",
+			"preco": 289,
+			"img": "assis/produtos/MASCULINO/lpg-9.jpg"
 		},
 		{
-			"description": "Óculos de Grau Oakley OX1100-04 Preto",
-			"modelo": "OX1100-04",
-			"preco": 530,
-			"img": "LPG-25.jpg"
+			"description": "Óculos de Grau Oslo",
+			"modelo": "Oslo n°30",
+			"preco": 198,
+			"img": "assis/produtos/MASCULINO/lpg-10.jpg"
 		},
 		{
-			"description": "Óculos de Grau Emporio Armani EA1107 Preto",
-			"modelo": "EA1107",
-			"preco": 670,
-			"img": "LPG-14.jpg"
-		},
-		{
-			"description": "Óculos de Grau Emporio Armani EA3170 Vermelho",
-			"modelo": "EA3170",
-			"preco": 770,
-			"img": "LPG-15.jpg"
-		},
-		{
-			"description": "Óculos de Grau Arnett AN4299 Preto",
-			"modelo": "AN4299",
-			"preco": 550,
-			"img": "LPG-24.jpg"
+			"description": "Óculos de Grau Oslo",
+			"modelo": "Oslo n°31",
+			"preco": 198,
+			"img": "assis/produtos/MASCULINO/lpg-31.jpg"
 		}
 	],
 	"Masculino//Óculos de Sol":[
 		{
-			"description": "Óculos de Sol Ferrari FZ6005U Preto",
-			"modelo": "FZ6005U",
-			"preco": 1146,
-			"img": "LPG-3.jpg"
-		},
-		{"description": "Óculos de Sol Ray Ban RB3701 Prata",
-			"modelo": "RB3701",
-			"preco": 1330,
-			"img": "LPG-7.jpg"
+			"description": "Óculos de Sol Oslo",
+			"modelo": "Oslo n°32",
+			"preco": 198,
+			"img": "assis/produtos/MASCULINO/lpg-15.jpg"
 		},
 		{
-			"description": "Óculos de Sol Calvin Klein Jeans CKJ24601S Marrom",
-			"modelo": "CKJ24601S",
-			"preco": 663,
-			"img": "LPG-2.jpg"
+			"description": "Óculos de Sol Oslo",
+			"modelo": "Oslo n°33",
+			"preco": 198,
+			"img": "assis/produtos/MASCULINO/lpg-17.jpg"
 		},
 		{
-			"description": "Óculos de Sol Ray Ban RB3708 Prata",
-			"modelo": "RB3708",
-			"preco": 1180,
-			"img": "LPG-22.jpg"
+			"description": "Óculos de Sol Adventure",
+			"modelo": "Adventure n°34",
+			"preco": 295,
+			"img": "assis/produtos/MASCULINO/lpg-19.jpg"
 		},
 		{
-			"description": "Óculos de Sol Arnette Shyguy 4283 Azul",
-			"modelo": "Shyguy 4283",
-			"preco": 570,
-			"img": "LPG-23.jpg"
+			"description": "Óculos de Sol P12",
+			"modelo": "P12 n°35",
+			"preco": 149,
+			"img": "assis/produtos/MASCULINO/lpg-20.jpg"
+		},
+		{
+			"description": "Óculos de Sol Oslo",
+			"modelo": "Oslo n°36",
+			"preco": 198,
+			"img": "assis/produtos/MASCULINO/lpg-24.jpg"
+		},
+		{
+			"description": "Óculos de Sol Dan",
+			"modelo": "Dan n°37",
+			"preco": 149,
+			"img": "assis/produtos/MASCULINO/lpg-36.jpg"
 		}
 	]
 }

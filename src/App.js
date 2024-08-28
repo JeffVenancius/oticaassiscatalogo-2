@@ -109,7 +109,6 @@ function App() {
 			btnFg: paleta.branco,
 			frameColor: paleta.branco,
 			cards: [],
-			banner: <Banner3/>
 		},
 		{
 			titulo: "Masculino//Óculos de Grau",

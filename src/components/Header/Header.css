@@ -45,16 +45,18 @@
 
 .header__promo__text h2 {
 	font-weight: 600;
-	font-size: 12vw;
+	font-size: 14vw;
 	text-align: left;
 	margin: 0;
 }
 
 .header__promo__text p {
-	font-size: 1.4vw;
+	font-size: 2.4vw;
 	text-align: left;
-	margin-top: -48px;
-	margin-left: 2%;
+	margin-top: -54px;
+	margin-left: 6%;
+	letter-spacing: 0.9vw;
+	font-weight:500;
 	color: #052f3f;
 }
 }
@@ -140,44 +142,49 @@
 	}
 	.header-banner {
 		display: flex;
-		justify-content: flex-end;
-		align-items: flex-end;
-		align-content: flex-end;
-		-webkit-justify-content: flex-end;
-		-webkit-align-items: flex-end;
-		-webkit-align-content: flex-end;
+		justify-content: flex-start;
+		align-items: flex-start;
+		align-content: flex-start;
+		-webkit-justify-content: flex-start;
+		-webkit-align-items: flex-start;
+		-webkit-align-content: flex-start;
 	}
 	.header__promo__text {
-		color: #fff;
+		color: #052f3f;
 		margin-top: auto;
 		width: 100%;
-		margin-left: 5%;
-		margin-right: 15%;
 		display: flex;
 		justify-content: space-around;
 		-webkit-justify-content: space-around;
-		align-content: center;
-		-webkit-align-content: center;
-		align-items: center;
-		-webkit-align-items: center;
-		height: 35%;
+		align-content: flex-start;
+		-webkit-align-content: flex-start;
+		align-items: flex-start;
+		-webkit-align-items: flex-start;
+		flex-direction: column;
+		margin-left: 4.5%;
+		margin-top: 10%;
 	}
 	.header__promo__text>h1 {
-		margin: auto;
 		width: 50%;
-		font-size: 8vw;
+		font-size: 7.5vw;
 		font-weight: 600;
+		color: #b0110d;
+	}
+	.header__promo__text>h1 span{
+		color: #052f3f;
 	}
 	.header__promo__text h2 {
-		font-size: 15vw;
+		font-size: 22vw;
 		font-weight: 600;
 		margin: 0;
+		color: #b0110d;
 	}
 	.header__promo__text p {
-		font-size: 2.5vw;
+		font-size: 5.2vw;
 		margin-top: -13%;
-		font-weight: 400;
+		font-weight: 500;
 		margin-left: 4%;
+		letter-spacing: 0.624vw;
 	}
 .promo__h1__mobile {
 	display: unset;

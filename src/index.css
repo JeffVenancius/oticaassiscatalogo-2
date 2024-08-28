@@ -21,6 +21,13 @@
 
 @font-face {
 	font-family: 'LeagueSpartan';
+    src: url('../public/fonts/League_Spartan/static/LeagueSpartan-SemiBold.ttf') format('truetype');
+	font-weight: 500;
+	font-style: bold;
+}
+
+@font-face {
+	font-family: 'LeagueSpartan';
     src: url('../public/fonts/League_Spartan/static/LeagueSpartan-Bold.ttf') format('truetype');
 	font-weight: 600;
 	font-style: bold;

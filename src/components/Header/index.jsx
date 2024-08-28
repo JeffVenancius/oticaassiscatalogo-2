@@ -18,8 +18,8 @@ function Header(props) {
 				<h1 className='promo__h1__mobile'><span>COMPROU,</span><br/> GANHOU!</h1>
 				<h1 className='promo__h1__pc'><span>COMPROU,</span><br/> GANHOU!</h1>
 			<div>
-				<h2>50%</h2>
-				<p>off na segunda peça</p>
+				<h2>12X</h2>
+				<p>NO CARTÃO</p>
 			</div>
 			</div>
 					</div>
