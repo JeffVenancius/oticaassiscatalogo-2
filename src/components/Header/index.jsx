@@ -12,7 +12,7 @@ function Header(props) {
 			<div className='header__nav--menu'>
 				<ScrollToBtn nome="Feminino" categoria="FEMININO--OCULOS_DE_GRAU"/>
 				<ScrollToBtn nome="Masculino" categoria="MASCULINO--OCULOS_DE_GRAU"/>
-				<a href={"https://api.whatsapp.com/send/?phone=5535" + phone + "&type=phone_number&app_absent=0"><button>Fale conosco</button></a>
+				<a href={"https://api.whatsapp.com/send/?phone=5535" + phone + "&type=phone_number&app_absent=0"}><button>Fale conosco</button></a>
 			</div>
 		</div>
 		<div className="header-banner" style={{...props.headerStyle, backgroundRepeat: "no-repeat"}}>
