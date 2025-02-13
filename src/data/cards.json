@@ -1,238 +1,550 @@
 {
-	"Feminino//Óculos de Grau":[
-		{
-			"description": "Oculos De Grau Oslo",
-			"modelo": "Oslo n°20",
-			"preco": 198,
-			"img": "assis/produtos/FEMININO/lpg-26.jpg"
-		},
-		{
-			"description": "Oculos De Grau La Roma",
-			"modelo": "La Roma n°1",
-			"preco": 349,
-			"img": "assis/produtos/FEMININO/lpg-21.jpg"
-		},
-		{
-			"description": "Oculos De Grau On Design",
-			"modelo": "On Design n°2",
-			"preco": 349,
-			"img": "assis/produtos/FEMININO/lpg-30.jpg"
-		},
-		{
-			"description": "Oculos De Grau On Design",
-			"modelo": "On Design n°38",
-			"preco": 349,
-			"img": "assis/produtos/FEMININO/lpg-29.jpg"
-		},
-		{
-			"description": "Oculos De Grau Kilt",
-			"modelo": "Kilt n°3",
-			"preco": 149,
-			"img": "assis/produtos/FEMININO/lpg-25.jpg"
-		},
-		{
-			"description": "Oculos De Grau Kilt",
-			"modelo": "Kilt n°4",
-			"preco": 149,
-			"img": "assis/produtos/FEMININO/lpg-18.jpg"
-		},
-		{
-			"description": "Oculos De Grau Ana Henriqueta",
-			"modelo": "Ana Henriqueta n°5",
-			"preco": 399,
-			"img": "assis/produtos/FEMININO/lpg-34.jpg"
-		},
-		{
-			"description": "Oculos De Grau Ana Henriqueta",
-			"modelo": "Ana Henriqueta n°6",
-			"preco": 399,
-			"img": "assis/produtos/FEMININO/lpg-11.jpg"
-		},
-		{
-			"description": "Oculos De Grau Ana Henriqueta",
-			"modelo": "Ana Henriqueta n°7",
-			"preco": 399,
-			"img": "assis/produtos/FEMININO/lpg-14.jpg"
-		}
-	],
-	"Feminino//Óculos de Sol":[
-		{
-			"description": "Óculos de Sol On Design",
-			"modelo": "On Design n°8",
-			"preco": 349,
-			"img": "assis/produtos/FEMININO/lpg-1.jpg"
-		},
-		{
-			"description": "Óculos de Sol On Design",
-			"modelo": "On Design n°9",
-			"preco": 349,
-			"img": "assis/produtos/FEMININO/lpg-2.jpg"
-		},
-		{
-			"description": "Óculos de Sol On Design",
-			"modelo": "On Design n°10",
-			"preco": 349,
-			"img": "assis/produtos/FEMININO/lpg-3.jpg"
-		},
-		{
-			"description": "Óculos de Sol Out",
-			"modelo": "Out n° 11",
-			"preco": 145,
-			"img": "assis/produtos/FEMININO/lpg-4.jpg"
-		},
-		{
-			"description": "Óculos de Sol Oslo",
-			"modelo": "Oslo n°12",
-			"preco": 198,
-			"img": "assis/produtos/FEMININO/lpg-7.jpg"
-		},
-		{
-			"description": "Óculos de Sol Kilt",
-			"modelo": "Kilt n°13",
-			"preco": 149,
-			"img": "assis/produtos/FEMININO/lpg-8.jpg"
-		},
-		{
-			"description": "Óculos de Sol Oslo",
-			"modelo": "Oslo n°14",
-			"preco": 198,
-			"img": "assis/produtos/FEMININO/lpg-12.jpg"
-		},
-		{
-			"description": "Óculos de Sol Oslo",
-			"modelo": "Oslo n°15",
-			"preco": 198,
-			"img": "assis/produtos/FEMININO/lpg-13.jpg"
-		},
-		{
-			"description": "Óculos de Sol Kilt",
-			"modelo": "Kilt n°16",
-			"preco": 149,
-			"img": "assis/produtos/FEMININO/lpg-16.jpg"
-		},
-		{
-			"description": "Óculos de Sol Oslo",
-			"modelo": "Oslo n°17",
-			"preco": 198,
-			"img": "assis/produtos/FEMININO/lpg-22.jpg"
-		},
-		{
-			"description": "Óculos de Sol Oslo",
-			"modelo": "Oslo n°18",
-			"preco": 198,
-			"img": "assis/produtos/FEMININO/lpg-23.jpg"
-		},
-		{
-			"description": "Óculos de Sol Oslo",
-			"modelo": "Oslo n°19",
-			"preco": 198,
-			"img": "assis/produtos/FEMININO/lpg-27.jpg"
-		},
-		{
-			"description": "Óculos de Sol On Design",
-			"modelo": "On Design n°21",
-			"preco": 349,
-			"img": "assis/produtos/FEMININO/lpg-28.jpg"
-		},
-		{
-			"description": "Óculos de Sol On Design",
-			"modelo": "On Design n°22",
-			"preco": 349,
-			"img": "assis/produtos/FEMININO/lpg-32.jpg"
-		},
-		{
-			"description": "Óculos de Sol Out",
-			"modelo": "Out n°23",
-			"preco": 145,
-			"img": "assis/produtos/FEMININO/lpg-33.jpg"
-		},
-		{
-			"description": "Óculos de Sol On Design",
-			"modelo": "On Design n°24",
-			"preco": 349,
-			"img": "assis/produtos/FEMININO/lpg-35.jpg"
-		},
-		{
-			"description": "Óculos de Sol On Design",
-			"modelo": "On Design n°25",
-			"preco": 349,
-			"img": "assis/produtos/FEMININO/lpg-37.jpg"
-		},
-		{
-			"description": "Óculos de Sol On Design",
-			"modelo": "On Design n°26",
-			"preco": 349,
-			"img": "assis/produtos/FEMININO/lpg-38.jpg"
-		}
-	],
-	"Masculino//Óculos de Grau":[
-		{
-			"description": "Óculos de Grau Oslo",
-			"modelo": "Oslo n°27",
-			"preco": 198,
-			"img": "assis/produtos/MASCULINO/lpg-5.jpg"
-		},
-		{
-			"description": "Óculos de Grau Adventure",
-			"modelo": "Adventure n°28",
-			"preco": 289,
-			"img": "assis/produtos/MASCULINO/lpg-6.jpg"
-		},
-		{
-			"description": "Óculos de Grau Adventure",
-			"modelo": "Adventure n°29",
-			"preco": 289,
-			"img": "assis/produtos/MASCULINO/lpg-9.jpg"
-		},
-		{
-			"description": "Óculos de Grau Oslo",
-			"modelo": "Oslo n°30",
-			"preco": 198,
-			"img": "assis/produtos/MASCULINO/lpg-10.jpg"
-		},
-		{
-			"description": "Óculos de Grau Oslo",
-			"modelo": "Oslo n°31",
-			"preco": 198,
-			"img": "assis/produtos/MASCULINO/lpg-31.jpg"
-		}
-	],
-	"Masculino//Óculos de Sol":[
-		{
-			"description": "Óculos de Sol Oslo",
-			"modelo": "Oslo n°32",
-			"preco": 198,
-			"img": "assis/produtos/MASCULINO/lpg-15.jpg"
-		},
-		{
-			"description": "Óculos de Sol Oslo",
-			"modelo": "Oslo n°33",
-			"preco": 198,
-			"img": "assis/produtos/MASCULINO/lpg-17.jpg"
-		},
-		{
-			"description": "Óculos de Sol Adventure",
-			"modelo": "Adventure n°34",
-			"preco": 295,
-			"img": "assis/produtos/MASCULINO/lpg-19.jpg"
-		},
-		{
-			"description": "Óculos de Sol P12",
-			"modelo": "P12 n°35",
-			"preco": 149,
-			"img": "assis/produtos/MASCULINO/lpg-20.jpg"
-		},
-		{
-			"description": "Óculos de Sol Oslo",
-			"modelo": "Oslo n°36",
-			"preco": 198,
-			"img": "assis/produtos/MASCULINO/lpg-24.jpg"
-		},
-		{
-			"description": "Óculos de Sol Dan",
-			"modelo": "Dan n°37",
-			"preco": 149,
-			"img": "assis/produtos/MASCULINO/lpg-36.jpg"
-		}
-	]
+    "Masculino//Óculos de Sol": [
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Adventure",
+            "description": "Óculos de Sol Adventure",
+            "modelo": "Adventure n°1",
+            "preco": 295,
+            "img": "https://i.ibb.co/PZ9RzwPj/0-5.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Adventure",
+            "description": "Óculos de Sol Adventure",
+            "modelo": "Adventure n°3",
+            "preco": 295,
+            "img": "https://i.ibb.co/G4k7HfQw/0-11.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Adventure",
+            "description": "Óculos de Sol Adventure",
+            "modelo": "Adventure n°4",
+            "preco": 295,
+            "img": "https://i.ibb.co/XrdrKddX/0-12.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Adventure",
+            "description": "Óculos de Sol Adventure",
+            "modelo": "Adventure n°5",
+            "preco": 295,
+            "img": "https://i.ibb.co/mrwH57wK/0-17.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Adventure",
+            "description": "Óculos de Sol Adventure",
+            "modelo": "Adventure n°6",
+            "preco": 295,
+            "img": "https://i.ibb.co/RVBwKwY/0-18.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Adventure",
+            "description": "Óculos de Sol Adventure",
+            "modelo": "Adventure n°8",
+            "preco": 295,
+            "img": "https://i.ibb.co/7dVMFF6T/0-20.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Adventure",
+            "description": "Óculos de Sol Adventure",
+            "modelo": "Adventure n°9",
+            "preco": 295,
+            "img": "https://i.ibb.co/hxjhL6DF/0-21.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Adventure",
+            "description": "Óculos de Sol Adventure",
+            "modelo": "Adventure n°10",
+            "preco": 295,
+            "img": "https://i.ibb.co/11Q0gh5/0-23.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Sol",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°19",
+            "preco": 198,
+            "img": "https://i.ibb.co/0R23nqKp/0-30.jpg"
+        }
+    ],
+    "Masculino//Óculos de Grau": [
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Adventure",
+            "description": "Óculos de Grau Adventure",
+            "modelo": "Adventure n°2",
+            "preco": 289,
+            "img": "https://i.ibb.co/LXXfzKL5/0-10.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Adventure",
+            "description": "Óculos de Grau Adventure",
+            "modelo": "Adventure n°7",
+            "preco": 289,
+            "img": "https://i.ibb.co/VZG6Km6/0-19.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Oslo",
+            "description": "Óculos de Grau Oslo",
+            "modelo": "Oslo n°18",
+            "preco": 198,
+            "img": "https://i.ibb.co/Y40RN0YW/0-29.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Oslo",
+            "description": "Óculos de Grau Oslo",
+            "modelo": "Oslo n°20",
+            "preco": 198,
+            "img": "https://i.ibb.co/VckB1JJq/0-31.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Oslo",
+            "description": "Óculos de Grau Oslo",
+            "modelo": "Oslo n°21",
+            "preco": 198,
+            "img": "https://i.ibb.co/nqqrn3V5/0-34.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Oslo",
+            "description": "Óculos de Grau Oslo",
+            "modelo": "Oslo n°23",
+            "preco": 198,
+            "img": "https://i.ibb.co/dwkQMHvZ/0-36.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Oslo",
+            "description": "Óculos de Grau Oslo",
+            "modelo": "Oslo n°26",
+            "preco": 198,
+            "img": "https://i.ibb.co/zWtB5MCZ/0-41.jpg"
+        },
+        {
+            "categoria": "Masculino//Óculos de Grau",
+            "marca": "Oslo",
+            "description": "Óculos de Grau Oslo",
+            "modelo": "Oslo n°27",
+            "preco": 198,
+            "img": "https://i.ibb.co/tTgGBCqb/0-42.jpg"
+        }
+    ],
+    "Feminino//Óculos de Grau": [
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "On Design",
+            "description": "Óculos de Grau On Design",
+            "modelo": "On Design n°1",
+            "preco": 349,
+            "img": "https://i.ibb.co/Y7d70Yrv/0-39.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "On Design",
+            "description": "Óculos de Grau On Design",
+            "modelo": "On Design n°2",
+            "preco": 349,
+            "img": "https://i.ibb.co/mCs9nWNd/0-24.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "On Design",
+            "description": "Óculos de Grau On Design",
+            "modelo": "On Design n°3",
+            "preco": 349,
+            "img": "https://i.ibb.co/t1K1Wgr/0-27.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "On Design",
+            "description": "Óculos de Grau On Design",
+            "modelo": "On Design n°4",
+            "preco": 349,
+            "img": "https://i.ibb.co/b5RKv9hF/0-28.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "On Design",
+            "description": "Óculos de Grau On Design",
+            "modelo": "On Design n°5",
+            "preco": 349,
+            "img": "https://i.ibb.co/8gHBCvZr/0-32.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "On Design",
+            "description": "Óculos de Grau On Design",
+            "modelo": "On Design n°6",
+            "preco": 349,
+            "img": "https://i.ibb.co/LzmZ5mnq/0-33.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "On Design",
+            "description": "Óculos de Grau On Design",
+            "modelo": "On Design n°7",
+            "preco": 349,
+            "img": "https://i.ibb.co/6R819Mkj/0-37.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Oslo",
+            "description": "Óculos de Grau Oslo",
+            "modelo": "Oslo n°16",
+            "preco": 198,
+            "img": "https://i.ibb.co/DgS3pDs1/0-25.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Oslo",
+            "description": "Óculos de Grau Oslo",
+            "modelo": "Oslo n°22",
+            "preco": 198,
+            "img": "https://i.ibb.co/yBMtDxCf/0-35.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "Oslo",
+            "description": "Óculos de Grau Oslo",
+            "modelo": "Oslo n°24",
+            "preco": 198,
+            "img": "https://i.ibb.co/DPQ9KGMQ/0-38.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "P12",
+            "description": "Óculos de Grau P12",
+            "modelo": "P12 n°7",
+            "preco": 249,
+            "img": "https://i.ibb.co/pj8Lq7JN/0-62.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "P12",
+            "description": "Óculos de Grau P12",
+            "modelo": "P12 n°9",
+            "preco": 249,
+            "img": "https://i.ibb.co/HLfwvmB7/0-64.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "P12",
+            "description": "Óculos de Grau P12",
+            "modelo": "P12 n°10",
+            "preco": 249,
+            "img": "https://i.ibb.co/fVSSZ8G9/0-65.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "P12",
+            "description": "Óculos de Grau P12",
+            "modelo": "P12 n°14",
+            "preco": 249,
+            "img": "https://i.ibb.co/W4q2p1dK/0-49.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Grau",
+            "marca": "P12",
+            "description": "Óculos de Grau P12",
+            "modelo": "P12 n°20",
+            "preco": 249,
+            "img": "https://i.ibb.co/XrhNcdR2/0-55.jpg"
+        }
+    ],
+    "Feminino//Óculos de Sol": [
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°1",
+            "preco": 198,
+            "img": "https://i.ibb.co/nsc19xbz/0-46.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°9",
+            "preco": 198,
+            "img": "https://i.ibb.co/W4KXPF0H/0-8.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°10",
+            "preco": 198,
+            "img": "https://i.ibb.co/wrNxtsFv/0-9.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°25",
+            "preco": 198,
+            "img": "https://i.ibb.co/XfPbzc2r/0-40.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "P12",
+            "description": "Óculos de Sol P12",
+            "modelo": "P12 n°1",
+            "preco": 249,
+            "img": "https://i.ibb.co/fGF3TvXY/0-56.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "P12",
+            "description": "Óculos de Sol P12",
+            "modelo": "P12 n°2",
+            "preco": 249,
+            "img": "https://i.ibb.co/VYm42mDv/0-57.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "P12",
+            "description": "Óculos de Sol P12",
+            "modelo": "P12 n°3",
+            "preco": 249,
+            "img": "https://i.ibb.co/5hryFqSc/0-58.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "P12",
+            "description": "Óculos de Sol P12",
+            "modelo": "P12 n°4",
+            "preco": 249,
+            "img": "https://i.ibb.co/23rmvT58/0-59.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "P12",
+            "description": "Óculos de Sol P12",
+            "modelo": "P12 n°5",
+            "preco": 249,
+            "img": "https://i.ibb.co/s9qTLLZj/0-60.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "P12",
+            "description": "Óculos de Sol P12",
+            "modelo": "P12 n°6",
+            "preco": 249,
+            "img": "https://i.ibb.co/Jw21TK87/0-61.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "P12",
+            "description": "Óculos de Sol P12",
+            "modelo": "P12 n°8",
+            "preco": 249,
+            "img": "https://i.ibb.co/mCbv6k3f/0-63.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "P12",
+            "description": "Óculos de Sol P12",
+            "modelo": "P12 n°11",
+            "preco": 249,
+            "img": "https://i.ibb.co/zTMPMRwP/0-66.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "P12",
+            "description": "Óculos de Sol P12",
+            "modelo": "P12 n°12",
+            "preco": 249,
+            "img": "https://i.ibb.co/LdThnzyf/0-67.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "P12",
+            "description": "Óculos de Sol P12",
+            "modelo": "P12 n°13",
+            "preco": 249,
+            "img": "https://i.ibb.co/JFt72Fz4/0-48.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "P12",
+            "description": "Óculos de Sol P12",
+            "modelo": "P12 n°15",
+            "preco": 249,
+            "img": "https://i.ibb.co/pv7Xxp8d/0-50.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "P12",
+            "description": "Óculos de Sol P12",
+            "modelo": "P12 n°16",
+            "preco": 249,
+            "img": "https://i.ibb.co/Wvp5bzsW/0-51.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "P12",
+            "description": "Óculos de Sol P12",
+            "modelo": "P12 n°17",
+            "preco": 249,
+            "img": "https://i.ibb.co/VYpK9wGN/0-52.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "P12",
+            "description": "Óculos de Sol P12",
+            "modelo": "P12 n°18",
+            "preco": 249,
+            "img": "https://i.ibb.co/zVKrHyDN/0-53.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "P12",
+            "description": "Óculos de Sol P12",
+            "modelo": "P12 n°19",
+            "preco": 249,
+            "img": "https://i.ibb.co/RTqwTs5c/0-54.jpg"
+        }
+    ],
+    "Unissex//Óculos de Sol": [
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°2",
+            "preco": 198,
+            "img": "https://i.ibb.co/RpKCpG4S/0-47.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°3",
+            "preco": 198,
+            "img": "https://i.ibb.co/CssTLpXD/0-1.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°6",
+            "preco": 198,
+            "img": "https://i.ibb.co/wFF0g2Ms/0-4.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°11",
+            "preco": 198,
+            "img": "https://i.ibb.co/dJHqv0vr/0-13.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°12",
+            "preco": 198,
+            "img": "https://i.ibb.co/BK6v7HKL/0-14.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°15",
+            "preco": 198,
+            "img": "https://i.ibb.co/13LZWG4/0-22.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°28",
+            "preco": 198,
+            "img": "https://i.ibb.co/4RJMsY2S/0-43.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°29",
+            "preco": 198,
+            "img": "https://i.ibb.co/nsCR1SjJ/0-44.jpg"
+        },
+        {
+            "categoria": "Unissex//Óculos de Sol",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°30",
+            "preco": 198,
+            "img": "https://i.ibb.co/79s5vHL/0-45.jpg"
+        }
+    ],
+    "Feminino//Lentes Cosméticas": [
+        {
+            "categoria": "Feminino//Lentes Cosméticas",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°4",
+            "preco": 198,
+            "img": "https://i.ibb.co/zHNqTYbS/0-2.jpg"
+        },
+        {
+            "categoria": "Feminino//Lentes Cosméticas",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°5",
+            "preco": 198,
+            "img": "https://i.ibb.co/8L87F1VG/0-3.jpg"
+        },
+        {
+            "categoria": "Feminino//Lentes Cosméticas",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°7",
+            "preco": 198,
+            "img": "https://i.ibb.co/cKRVWwdG/0-6.jpg"
+        },
+        {
+            "categoria": "Feminino//Lentes Cosméticas",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°8",
+            "preco": 198,
+            "img": "https://i.ibb.co/Y4St9Z8q/0-7.jpg"
+        },
+        {
+            "categoria": "Feminino//Lentes Cosméticas",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°13",
+            "preco": 198,
+            "img": "https://i.ibb.co/NgWZ435S/0-15.jpg"
+        },
+        {
+            "categoria": "Feminino//Lentes Cosméticas",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°14",
+            "preco": 198,
+            "img": "https://i.ibb.co/ycX1z5ZB/0-16.jpg"
+        },
+        {
+            "categoria": "Feminino//Lentes Cosméticas",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°17",
+            "preco": 198,
+            "img": "https://i.ibb.co/rfwT4RDj/0-26.jpg"
+        }
+    ]
 }
