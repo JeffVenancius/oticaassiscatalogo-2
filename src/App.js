@@ -90,6 +90,15 @@ function App() {
 
 	const [categoriesData, setCategoriesData] = useState([
 		{
+			titulo: "Feminino//Lentes Cosméticas",
+			imagemCatergoria: "Moderna.png",
+			bgCategoria: "#FFF",
+			cardStyle: cardsEstilos.transparente,
+			btnBg: "#009947",
+			btnFg: paleta.branco,
+			frameColor: paleta.branco,
+		},
+		{
 			titulo: "Feminino//Óculos de Grau",
 			bgCategoria: "#FFF",
 			imagemCatergoria: "Esportiva.png",
@@ -123,6 +132,15 @@ function App() {
 		},
 		{
 			titulo: "Masculino//Óculos de Sol",
+			imagemCatergoria: "Moderna.png",
+			bgCategoria: "#FFF",
+			cardStyle: cardsEstilos.transparente,
+			btnBg: "#009947",
+			btnFg: paleta.branco,
+			frameColor: paleta.branco,
+		},
+		{
+			titulo: "Unissex//Óculos de Sol",
 			imagemCatergoria: "Moderna.png",
 			bgCategoria: "#FFF",
 			cardStyle: cardsEstilos.transparente,
