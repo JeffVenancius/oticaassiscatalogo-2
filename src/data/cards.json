@@ -200,14 +200,6 @@
             "categoria": "Feminino//Óculos de Grau",
             "marca": "Oslo",
             "description": "Óculos de Grau Oslo",
-            "modelo": "Oslo n°16",
-            "preco": 198,
-            "img": "https://i.ibb.co/DgS3pDs1/0-25.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "marca": "Oslo",
-            "description": "Óculos de Grau Oslo",
             "modelo": "Oslo n°22",
             "preco": 198,
             "img": "https://i.ibb.co/yBMtDxCf/0-35.jpg"
@@ -219,14 +211,6 @@
             "modelo": "Oslo n°24",
             "preco": 198,
             "img": "https://i.ibb.co/DPQ9KGMQ/0-38.jpg"
-        },
-        {
-            "categoria": "Feminino//Óculos de Grau",
-            "marca": "P12",
-            "description": "Óculos de Grau P12",
-            "modelo": "P12 n°7",
-            "preco": 249,
-            "img": "https://i.ibb.co/pj8Lq7JN/0-62.jpg"
         },
         {
             "categoria": "Feminino//Óculos de Grau",
@@ -262,6 +246,22 @@
         }
     ],
     "Feminino//Óculos de Sol": [
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "Oslo",
+            "description": "Óculos de Sol Oslo",
+            "modelo": "Oslo n°16",
+            "preco": 198,
+            "img": "https://i.ibb.co/DgS3pDs1/0-25.jpg"
+        },
+        {
+            "categoria": "Feminino//Óculos de Sol",
+            "marca": "P12",
+            "description": "Óculos de Sol P12",
+            "modelo": "P12 n°7",
+            "preco": 249,
+            "img": "https://i.ibb.co/pj8Lq7JN/0-62.jpg"
+        },
         {
             "categoria": "Feminino//Óculos de Sol",
             "marca": "Oslo",
